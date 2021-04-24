@@ -1,7 +1,5 @@
 <img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?&style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 # UE4 Automated Tests With Blueprints
 
@@ -42,6 +40,3 @@ Follow the steps below to clone and run automated tests.
 ## Acknowledgements
 * [Unreal Engine](https://www.unrealengine.com/en-US/)
 * [UE4 Style Guide By Allar](https://github.com/Allar/ue4-style-guide)
-
-
-[linkedin-url]: https://linkedin.com/in/leonardo-duprates
