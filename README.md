@@ -8,12 +8,12 @@
 
 # UE4 Automated Tests With Blueprints
 
-This project is an simple example of automated tests in Unreal Engine 4 using only blueprints (without cpp code) in the third person sample scene.
+This project is a simple example of automated testing on Unreal Engine 4 using only blueprints (without cpp code) in the third-person game.
 
 ## About The Project
 
 1. The automated test will simulate the character running on the map, climb on the the platform and jump over the box, it is expected to arrive on the trigger sphere assert.
-2. The actions events is developed in Blueprint class using Event Graph.
+2. The actions events are developed in the Blueprint class using Event Graph.
 3. Each action point is defined by Trigger Actors (Trigger Sphere).
 
 ## Game Framework Resources
@@ -31,6 +31,11 @@ This project is an simple example of automated tests in Unreal Engine 4 using on
 Follow the steps below to clone and run automated tests.
 
 ### Prerequisites
+
+* Hardware and Software Specifications
+  ```
+  https://docs.unrealengine.com/en-US/Basics/RecommendedSpecifications/index.html
+  ```
 * Unreal Engine > 4
   ```
   https://www.unrealengine.com/en-US/download
@@ -43,5 +48,6 @@ Follow the steps below to clone and run automated tests.
 4. Run the tests through the Development Tool > Session Frontend window.
 
 ## Acknowledgements
-* [Unreal Engine](https://www.unrealengine.com/en-US/)
+
+* [Unreal Engine 4 Documentation](https://docs.unrealengine.com/en-US/index.html)
 * [UE4 Style Guide By Allar](https://github.com/Allar/ue4-style-guide)
