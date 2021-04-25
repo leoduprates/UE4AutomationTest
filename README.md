@@ -8,7 +8,7 @@
 
 # UE4 Automated Tests With Blueprints
 
-This project is a simple example of automated testing on Unreal Engine 4 using only blueprints (without cpp code) in the third-person game.
+This project is a simple example of automated testing on Unreal Engine 4 using only blueprints (without cpp code) in the third-person starter kit game.
 
 ## About The Project
 
