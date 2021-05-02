@@ -6,14 +6,14 @@
     </a>
 </p>
 
-# UE4 Automated Tests With Blueprints
+# UE4 Automated Tests
 
-This project is a simple example of automated testing on Unreal Engine 4 using only blueprints (without cpp code) in the third-person starter kit game.
+This project is a simple example of automated testing on Unreal Engine 4 using blueprints and C++ scripts in the third-person starter kit game.
 
 ## About The Project
 
-1. The automated test will simulate the character running on the map, climb on the the platform and jump over the box, it is expected to arrive on the trigger sphere assert.
-2. The actions events are developed in the Blueprint class using Event Graph.
+1. The automated test will simulate the character running on the map, climb on the the platform and jump over the box, it is expected to arrive on the trigger sphere and assert the position.
+2. The actions events are developed in the Blueprint class using Event Graph or developed in C++ Functional Test Class.
 3. Each action point is defined by Trigger Actors (Trigger Sphere).
 
 ## Game Framework Resources
