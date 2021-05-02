@@ -8,13 +8,13 @@
 
 # UE4 Automation Test
 
-This project is a simple example of automated testing on Unreal Engine 4 using blueprints and Unreal Engine's C++ in the third-person starter kit game.
+This project is a simple example of testing automation in Unreal Engine 4 using Blueprint Visual Scripting and Unreal Engine's C++ in the third-person starter kit.
 
 ## Tests
 
 The automation tests will simulate the character running on the map, climbing on the platform and jumping over the box. The character is expected to arrive at the trigger sphere and assert the position.
 
-* ThirdPersonFTestBlueprint: Developed using Blueprint Visual Scripting
+* ThirdPersonFTestBlueprint: Developed using Blueprint Visual Scripting.
 * ThirdPersonFTestScript: Developed using Unreal Engine's C++.
 
 ## Demo
