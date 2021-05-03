@@ -12,7 +12,7 @@ This project is a simple example of testing automation in Unreal Engine 4 using 
 
 ## Tests
 
-The automation tests will simulate the character running on the map, climbing on the platform and jumping over the box. The character is expected to arrive at the trigger sphere and assert the position.
+The automation tests will simulate the character running on the map, climbing on the platform and jumping over the box. The character is expected to arrive at the trigger sphere and attain the position.
 
 * ThirdPersonFTestBlueprint: Developed using Blueprint Visual Scripting.
 * ThirdPersonFTestScript: Developed using Unreal Engine's C++.
